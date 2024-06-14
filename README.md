@@ -18,4 +18,5 @@ To make the scripts work as is, a folder containing a 'data' and 'scripts' folde
 'phaseError.py' calculates the phase errors for the measurement setup. 
 
 'simulatedSynthesis.py' is used for a simple interferometer simulation. 
+
 'synthesisFunction.py' holds a lot of functionality for most of the other scripts, as multiple functions are defined here. 
